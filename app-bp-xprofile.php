@@ -2,6 +2,8 @@
 /**
  * Plugin Name: Site Specific Code for BuddyPress + Appointments Integration
  * Version: 1.0.0
+ * Plugin Name: BuddyPress xProfile + Appointments Integration
+ * Version: 1.0.1
  * Author: Jude Rosario (WPMU DEV)
  * Author URI: http://premium.wpmudev.org/
  */
