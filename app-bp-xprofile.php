@@ -1,9 +1,8 @@
 <?php
 /**
- * Plugin Name: Site Specific Code for BuddyPress + Appointments Integration
- * Version: 1.0.0
  * Plugin Name: BuddyPress xProfile + Appointments Integration
  * Version: 1.0.1
+ * Description: Addon that lets for users to set their profile for Appointments+ preferences without logging in to the dashboard.
  * Author: Jude Rosario (WPMU DEV)
  * Author URI: http://premium.wpmudev.org/
  */
